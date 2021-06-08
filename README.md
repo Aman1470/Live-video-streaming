@@ -1,1 +1,1 @@
-# Lve-video-streaming with python & cv2
+# Live-video-streaming with python & cv2
